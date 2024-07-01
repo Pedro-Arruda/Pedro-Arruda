@@ -1,16 +1,39 @@
-## Hi there 👋
+<div align="center">
+    <a href="https://github.com/Pedro-Arruda">
+    <img height="160em" 
+    src="https://github-readme-stats.vercel.app/api?username=Pedro-Arruda&show_icons=true&theme=github_dark&include_all_commits=true" />
+    <img height="160em" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Arruda&layout=compact&langs_count=7&theme=github_dark"/>
+</div>
 
-<!--
-**Pedro-Arruda/Pedro-Arruda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+<div align="center">
+    <img alt="TypeScript" 
+    height="50" 
+    width="70" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"/>
+    <img alt="Node.js" 
+    height="50" 
+    width="70" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+    <img alt="React" 
+    height="50" 
+    width="70" 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<div align="center">
+    <a href="mailto:arruda.pedro014@gmail.com" 
+    target="_blank">
+        <img style="border-radius: 5px"
+        src="https://img.shields.io/badge/Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"/>
+    </a>
+    <a href="https://www.linkedin.com/in/pedro-scucuglia-arruda/" 
+    target="_blank">
+        <img style="border-radius: 5px"
+        src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a> 
+</div>
